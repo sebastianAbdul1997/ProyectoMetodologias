@@ -13,6 +13,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;
+import java.util.concurrent.TimeUnit;
 
 
 public class AdvantageonlineshoppingActions extends AdvantageonlineshoppingPage {
@@ -27,6 +28,7 @@ public class AdvantageonlineshoppingActions extends AdvantageonlineshoppingPage 
         WebElement gmailLink = getDriver().findElement(By.xpath("//div[@id='follow']/following::label"));
         Actions actionProvider = new Actions(getDriver());
         actionProvider.moveToElement(gmailLink).build().perform();
+        getDriver().manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
     }
 
     public void encontarRedesSociales(){

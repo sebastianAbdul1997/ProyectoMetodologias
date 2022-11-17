@@ -1,5 +1,5 @@
 @test
-Feature: Ver al menos tres redes sociales
+Feature: Busqueda y Categoria de productos
 
   Yo como usuario de la pagina demo
   necesito  una opcion de buscar
