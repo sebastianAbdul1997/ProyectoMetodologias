@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuite name="com.h2.runners.AdvantageonlineshoppingRunners" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="LAPTOP-5B05JJEF" time="0.0">
   <properties/>
-  <system-out><![CDATA[16:02:52.543 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\serenity.properties 
-16:02:52.648 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\serenity.properties 
-16:02:52.649 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\serenity.properties 
-16:02:52.651 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.driver=chrome
-16:02:52.651 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.incognito=true
-16:02:52.651 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.chrome.driver=src/test/resources/drivers/chromedriver.exe
-16:02:52.651 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.acceptSslCerts=true
-16:02:52.651 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.console.colors=true
-16:02:52.659 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.base.url=https://advantageonlineshopping.com/#/
-16:02:52.659 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.project.name=Dojo Serenity / Cucumber
-16:02:52.659 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.wait.for.timeout=6000
-16:02:52.659 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.use.unique.browser=true
-16:02:52.659 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.timeouts.implicitlywait=20000
-16:02:52.659 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.browser.maximized=true
-16:02:52.956 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\serenity.properties 
-16:02:52.996 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\serenity.properties 
-16:02:52.997 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\serenity.properties 
-16:02:52.998 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.driver=chrome
-16:02:52.998 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.incognito=true
-16:02:52.998 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.chrome.driver=src/test/resources/drivers/chromedriver.exe
-16:02:52.998 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.acceptSslCerts=true
-16:02:52.999 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.console.colors=true
-16:02:52.999 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.base.url=https://advantageonlineshopping.com/#/
-16:02:52.999 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.project.name=Dojo Serenity / Cucumber
-16:02:52.999 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.wait.for.timeout=6000
-16:02:52.999 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.use.unique.browser=true
-16:02:52.999 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.timeouts.implicitlywait=20000
-16:02:52.999 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.browser.maximized=true
-16:02:53.005 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[96m
+  <system-out><![CDATA[19:36:38.140 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\serenity.properties 
+19:36:38.359 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\serenity.properties 
+19:36:38.360 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\serenity.properties 
+19:36:38.380 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.driver=chrome
+19:36:38.380 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.incognito=true
+19:36:38.380 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.chrome.driver=src/test/resources/drivers/chromedriver.exe
+19:36:38.381 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.acceptSslCerts=true
+19:36:38.381 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.console.colors=true
+19:36:38.381 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.base.url=https://advantageonlineshopping.com/#/
+19:36:38.381 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.project.name=Dojo Serenity / Cucumber
+19:36:38.381 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.wait.for.timeout=6000
+19:36:38.381 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.use.unique.browser=true
+19:36:38.381 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.timeouts.implicitlywait=20000
+19:36:38.382 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.browser.maximized=true
+19:36:38.939 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\serenity.properties 
+19:36:39.046 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\serenity.properties 
+19:36:39.047 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\serenity.properties 
+19:36:39.049 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.driver=chrome
+19:36:39.049 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.incognito=true
+19:36:39.049 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.chrome.driver=src/test/resources/drivers/chromedriver.exe
+19:36:39.050 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.acceptSslCerts=true
+19:36:39.051 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.console.colors=true
+19:36:39.051 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.base.url=https://advantageonlineshopping.com/#/
+19:36:39.051 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.project.name=Dojo Serenity / Cucumber
+19:36:39.051 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.wait.for.timeout=6000
+19:36:39.051 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.use.unique.browser=true
+19:36:39.051 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.timeouts.implicitlywait=20000
+19:36:39.051 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.browser.maximized=true
+19:36:39.063 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[96m
 
 -------------------------------------------------------------------------------------
      _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
@@ -46,9 +46,9 @@
  Learn Serenity BDD online at http://serenity-dojo.com                               
 -------------------------------------------------------------------------------------
 ?[0m
-16:02:53.009 [Test worker] DEBUG net.thucydides.core.steps.StepEventBus - Test suite started for story net.thucydides.core.model.Story@f59c1bd4
-16:02:53.010 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: Busqueda y Categoria de productos
-16:02:53.065 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+19:36:39.075 [Test worker] DEBUG net.thucydides.core.steps.StepEventBus - Test suite started for story net.thucydides.core.model.Story@f59c1bd4
+19:36:39.076 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: Busqueda y Categoria de productos
+19:36:39.160 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
  _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
 |_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
   | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
@@ -58,7 +58,7 @@
 
 TEST STARTED: el usuario deberia  poder ver un icono de buisqueda para poder digitar
 -------------------------------------------------------------------(busqueda-y-categoria-de-productos;el-usuario-deberia--poder-ver-un-icono-de-buisqueda-para-poder-digitar)
-16:03:01.559 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+19:36:50.969 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
  _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
 |_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
   | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
@@ -68,7 +68,7 @@ TEST STARTED: el usuario deberia  poder ver un icono de buisqueda para poder dig
 
 TEST STARTED: el usuario deberia  poder encontrar articulos con la palabra buscada
 -------------------------------------------------------------------(busqueda-y-categoria-de-productos;el-usuario-deberia--poder-encontrar-articulos-con-la-palabra-buscada)
-16:03:26.106 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+19:37:01.959 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
  _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
 |_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
   | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
@@ -78,7 +78,7 @@ TEST STARTED: el usuario deberia  poder encontrar articulos con la palabra busca
 
 TEST STARTED: el usuario deberia  poder ver la categoria a la que pertenece los productos desplegados
 -------------------------------------------------------------------(busqueda-y-categoria-de-productos;el-usuario-deberia--poder-ver-la-categoria-a-la-que-pertenece-los-productos-desplegados)
-16:03:34.401 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+19:37:12.968 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
  _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
 |_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
   | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
@@ -88,92 +88,92 @@ TEST STARTED: el usuario deberia  poder ver la categoria a la que pertenece los 
 
 TEST STARTED: el usuario deberia poder ver que el producto que relaciono en la busqueda no existe
 -------------------------------------------------------------------(busqueda-y-categoria-de-productos;el-usuario-deberia-poder-ver-que-el-producto-que-relaciono-en-la-busqueda-no-existe)
-16:03:49.533 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reporting formats: [JSON, HTML]
-16:03:49.641 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reporting formats: [JSON, HTML]
-16:03:49.666 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Generating reports for 4 test outcomes using: net.thucydides.core.reports.json.JSONTestOutcomeReporter@4060de5
-16:03:49.668 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia  poder ver un icono de buisqueda para poder digitar
-16:03:49.668 [pool-1-thread-2] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia  poder encontrar articulos con la palabra buscada
-16:03:49.668 [pool-1-thread-3] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia  poder ver la categoria a la que pertenece los productos desplegados
-16:03:49.668 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@4060de5: Generating report for test outcome: Busqueda y Categoria de productos:el usuario deberia  poder ver un icono de buisqueda para poder digitar
-16:03:49.668 [pool-1-thread-4] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia poder ver que el producto que relaciono en la busqueda no existe
-16:03:49.668 [pool-1-thread-2] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@4060de5: Generating report for test outcome: Busqueda y Categoria de productos:el usuario deberia  poder encontrar articulos con la palabra buscada
-16:03:49.668 [pool-1-thread-3] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@4060de5: Generating report for test outcome: Busqueda y Categoria de productos:el usuario deberia  poder ver la categoria a la que pertenece los productos desplegados
-16:03:49.668 [pool-1-thread-4] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@4060de5: Generating report for test outcome: Busqueda y Categoria de productos:el usuario deberia poder ver que el producto que relaciono en la busqueda no existe
-16:03:49.673 [pool-1-thread-2] DEBUG net.thucydides.core.reports.json.JSONTestOutcomeReporter - Generating JSON report for el usuario deberia  poder encontrar articulos con la palabra buscada to file C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\target\site\serenity\4d6b6a4bc884e89fc111d3c7a05a7e79473c49b3bdb7776beb795a185f6c4234.json (using temp file C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\target\site\serenity\4d6b6a4bc884e89fc111d3c7a05a7e79473c49b3bdb7776beb795a185f6c4234.jsonf7f8bf74-26ac-41e1-9749-ac8a0208087c)
-16:03:49.673 [pool-1-thread-4] DEBUG net.thucydides.core.reports.json.JSONTestOutcomeReporter - Generating JSON report for el usuario deberia poder ver que el producto que relaciono en la busqueda no existe to file C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\target\site\serenity\012e49a57f0296c8dac2e9b535c0f305e62b6529884b981500f8ebfb8bd1f5f9.json (using temp file C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\target\site\serenity\012e49a57f0296c8dac2e9b535c0f305e62b6529884b981500f8ebfb8bd1f5f9.jsonf3362bf4-875f-4e68-a660-537c7d59f30e)
-16:03:49.673 [pool-1-thread-3] DEBUG net.thucydides.core.reports.json.JSONTestOutcomeReporter - Generating JSON report for el usuario deberia  poder ver la categoria a la que pertenece los productos desplegados to file C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\target\site\serenity\d21277733cbc27bfcb66e2d4c3090d3acde22acd67d5b749b651c53b326eddbb.json (using temp file C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\target\site\serenity\d21277733cbc27bfcb66e2d4c3090d3acde22acd67d5b749b651c53b326eddbb.jsondd40fa95-87cf-4782-916d-fc98f0f4db8a)
-16:03:49.673 [pool-1-thread-1] DEBUG net.thucydides.core.reports.json.JSONTestOutcomeReporter - Generating JSON report for el usuario deberia  poder ver un icono de buisqueda para poder digitar to file C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\target\site\serenity\ad8634b954b2103325a3b001791c10eda569c376b695ec1bd08dc4bf0f14d2e8.json (using temp file C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\target\site\serenity\ad8634b954b2103325a3b001791c10eda569c376b695ec1bd08dc4bf0f14d2e8.jsonf15a3bb9-6022-419d-8859-6923802f892d)
-16:03:49.732 [pool-1-thread-3] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia  poder ver la categoria a la que pertenece los productos desplegados done
-16:03:49.733 [pool-1-thread-4] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia poder ver que el producto que relaciono en la busqueda no existe done
-16:03:49.733 [pool-1-thread-2] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia  poder encontrar articulos con la palabra buscada done
-16:03:49.733 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia  poder ver un icono de buisqueda para poder digitar done
-16:03:49.733 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Shutting down executor service
-16:03:49.733 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reports generated in: 67 ms
-16:03:49.733 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Generating reports for 4 test outcomes using: net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@522e2c35
-16:03:49.734 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia  poder ver un icono de buisqueda para poder digitar
-16:03:49.734 [pool-2-thread-3] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia  poder ver la categoria a la que pertenece los productos desplegados
-16:03:49.734 [pool-2-thread-2] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia  poder encontrar articulos con la palabra buscada
-16:03:49.734 [pool-2-thread-4] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia poder ver que el producto que relaciono en la busqueda no existe
-16:03:49.734 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@522e2c35: Generating report for test outcome: Busqueda y Categoria de productos:el usuario deberia  poder ver un icono de buisqueda para poder digitar
-16:03:49.734 [pool-2-thread-3] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@522e2c35: Generating report for test outcome: Busqueda y Categoria de productos:el usuario deberia  poder ver la categoria a la que pertenece los productos desplegados
-16:03:49.734 [pool-2-thread-2] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@522e2c35: Generating report for test outcome: Busqueda y Categoria de productos:el usuario deberia  poder encontrar articulos con la palabra buscada
-16:03:49.734 [pool-2-thread-4] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@522e2c35: Generating report for test outcome: Busqueda y Categoria de productos:el usuario deberia poder ver que el producto que relaciono en la busqueda no existe
-16:03:49.735 [pool-2-thread-3] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATE TEST OUTCOME REPORT FOR el usuario deberia  poder ver la categoria a la que pertenece los productos desplegados in d21277733cbc27bfcb66e2d4c3090d3acde22acd67d5b749b651c53b326eddbb
-16:03:49.735 [pool-2-thread-4] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATE TEST OUTCOME REPORT FOR el usuario deberia poder ver que el producto que relaciono en la busqueda no existe in 012e49a57f0296c8dac2e9b535c0f305e62b6529884b981500f8ebfb8bd1f5f9
-16:03:49.735 [pool-2-thread-2] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATE TEST OUTCOME REPORT FOR el usuario deberia  poder encontrar articulos con la palabra buscada in 4d6b6a4bc884e89fc111d3c7a05a7e79473c49b3bdb7776beb795a185f6c4234
-16:03:49.735 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATE TEST OUTCOME REPORT FOR el usuario deberia  poder ver un icono de buisqueda para poder digitar in ad8634b954b2103325a3b001791c10eda569c376b695ec1bd08dc4bf0f14d2e8
-16:03:49.752 [pool-2-thread-2] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
-16:03:49.752 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
-16:03:49.752 [pool-2-thread-3] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
-16:03:49.757 [pool-2-thread-2] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
-16:03:49.757 [pool-2-thread-3] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
-16:03:49.757 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
-16:03:49.765 [pool-2-thread-4] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
-16:03:49.766 [pool-2-thread-4] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
-16:03:49.852 [pool-2-thread-4] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
-16:03:49.853 [pool-2-thread-3] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
-16:03:49.854 [pool-2-thread-4] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
-16:03:49.854 [pool-2-thread-3] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
-16:03:49.854 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
-16:03:49.854 [pool-2-thread-2] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
-16:03:49.855 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
-16:03:49.855 [pool-2-thread-2] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
-16:03:49.982 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in ad8634b954b2103325a3b001791c10eda569c376b695ec1bd08dc4bf0f14d2e8_screenshots.html
-16:03:49.982 [pool-2-thread-4] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in 012e49a57f0296c8dac2e9b535c0f305e62b6529884b981500f8ebfb8bd1f5f9_screenshots.html
-16:03:49.982 [pool-2-thread-3] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in d21277733cbc27bfcb66e2d4c3090d3acde22acd67d5b749b651c53b326eddbb_screenshots.html
-16:03:49.982 [pool-2-thread-2] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in 4d6b6a4bc884e89fc111d3c7a05a7e79473c49b3bdb7776beb795a185f6c4234_screenshots.html
-16:03:50.459 [pool-2-thread-4] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report 012e49a57f0296c8dac2e9b535c0f305e62b6529884b981500f8ebfb8bd1f5f9_screenshots.html in 477 ms
-16:03:50.459 [pool-2-thread-2] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report 4d6b6a4bc884e89fc111d3c7a05a7e79473c49b3bdb7776beb795a185f6c4234_screenshots.html in 477 ms
-16:03:50.459 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report ad8634b954b2103325a3b001791c10eda569c376b695ec1bd08dc4bf0f14d2e8_screenshots.html in 477 ms
-16:03:50.459 [pool-2-thread-3] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report d21277733cbc27bfcb66e2d4c3090d3acde22acd67d5b749b651c53b326eddbb_screenshots.html in 477 ms
-16:03:50.461 [pool-2-thread-2] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATING HTML REPORT FOR Busqueda y Categoria de productos:el usuario deberia  poder encontrar articulos con la palabra buscada in 4d6b6a4bc884e89fc111d3c7a05a7e79473c49b3bdb7776beb795a185f6c4234.html in directory C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\target\site\serenity  
-16:03:50.461 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATING HTML REPORT FOR Busqueda y Categoria de productos:el usuario deberia  poder ver un icono de buisqueda para poder digitar in ad8634b954b2103325a3b001791c10eda569c376b695ec1bd08dc4bf0f14d2e8.html in directory C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\target\site\serenity  
-16:03:50.461 [pool-2-thread-4] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATING HTML REPORT FOR Busqueda y Categoria de productos:el usuario deberia poder ver que el producto que relaciono en la busqueda no existe in 012e49a57f0296c8dac2e9b535c0f305e62b6529884b981500f8ebfb8bd1f5f9.html in directory C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\target\site\serenity  
-16:03:50.461 [pool-2-thread-3] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATING HTML REPORT FOR Busqueda y Categoria de productos:el usuario deberia  poder ver la categoria a la que pertenece los productos desplegados in d21277733cbc27bfcb66e2d4c3090d3acde22acd67d5b749b651c53b326eddbb.html in directory C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\target\site\serenity  
-16:03:50.463 [pool-2-thread-3] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in d21277733cbc27bfcb66e2d4c3090d3acde22acd67d5b749b651c53b326eddbb.html
-16:03:50.463 [pool-2-thread-2] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in 4d6b6a4bc884e89fc111d3c7a05a7e79473c49b3bdb7776beb795a185f6c4234.html
-16:03:50.463 [pool-2-thread-4] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in 012e49a57f0296c8dac2e9b535c0f305e62b6529884b981500f8ebfb8bd1f5f9.html
-16:03:50.463 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in ad8634b954b2103325a3b001791c10eda569c376b695ec1bd08dc4bf0f14d2e8.html
-16:03:50.518 [pool-2-thread-3] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
-16:03:50.518 [pool-2-thread-2] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
-16:03:50.518 [pool-2-thread-4] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
-16:03:50.518 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
-16:03:50.553 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report ad8634b954b2103325a3b001791c10eda569c376b695ec1bd08dc4bf0f14d2e8.html in 90 ms
-16:03:50.554 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia  poder ver un icono de buisqueda para poder digitar done
-16:03:50.554 [pool-2-thread-4] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report 012e49a57f0296c8dac2e9b535c0f305e62b6529884b981500f8ebfb8bd1f5f9.html in 91 ms
-16:03:50.554 [pool-2-thread-3] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report d21277733cbc27bfcb66e2d4c3090d3acde22acd67d5b749b651c53b326eddbb.html in 91 ms
-16:03:50.554 [pool-2-thread-2] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report 4d6b6a4bc884e89fc111d3c7a05a7e79473c49b3bdb7776beb795a185f6c4234.html in 91 ms
-16:03:50.554 [pool-2-thread-4] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia poder ver que el producto que relaciono en la busqueda no existe done
-16:03:50.554 [pool-2-thread-3] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia  poder ver la categoria a la que pertenece los productos desplegados done
-16:03:50.554 [pool-2-thread-2] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia  poder encontrar articulos con la palabra buscada done
-16:03:50.554 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Shutting down executor service
-16:03:50.554 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reports generated in: 821 ms
-16:03:50.742 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Closing darkroom
-16:03:50.742 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Darkroom processing line shutting down
+19:37:23.364 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reporting formats: [JSON, HTML]
+19:37:23.530 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reporting formats: [JSON, HTML]
+19:37:23.580 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Generating reports for 4 test outcomes using: net.thucydides.core.reports.json.JSONTestOutcomeReporter@4631d407
+19:37:23.583 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia  poder ver un icono de buisqueda para poder digitar
+19:37:23.583 [pool-1-thread-3] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia  poder ver la categoria a la que pertenece los productos desplegados
+19:37:23.584 [pool-1-thread-4] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia poder ver que el producto que relaciono en la busqueda no existe
+19:37:23.584 [pool-1-thread-4] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@4631d407: Generating report for test outcome: Busqueda y Categoria de productos:el usuario deberia poder ver que el producto que relaciono en la busqueda no existe
+19:37:23.584 [pool-1-thread-2] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia  poder encontrar articulos con la palabra buscada
+19:37:23.584 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@4631d407: Generating report for test outcome: Busqueda y Categoria de productos:el usuario deberia  poder ver un icono de buisqueda para poder digitar
+19:37:23.584 [pool-1-thread-3] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@4631d407: Generating report for test outcome: Busqueda y Categoria de productos:el usuario deberia  poder ver la categoria a la que pertenece los productos desplegados
+19:37:23.584 [pool-1-thread-2] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@4631d407: Generating report for test outcome: Busqueda y Categoria de productos:el usuario deberia  poder encontrar articulos con la palabra buscada
+19:37:23.592 [pool-1-thread-1] DEBUG net.thucydides.core.reports.json.JSONTestOutcomeReporter - Generating JSON report for el usuario deberia  poder ver un icono de buisqueda para poder digitar to file C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\target\site\serenity\ad8634b954b2103325a3b001791c10eda569c376b695ec1bd08dc4bf0f14d2e8.json (using temp file C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\target\site\serenity\ad8634b954b2103325a3b001791c10eda569c376b695ec1bd08dc4bf0f14d2e8.json700fede3-829f-4934-a82f-8110a5fe1ed0)
+19:37:23.592 [pool-1-thread-4] DEBUG net.thucydides.core.reports.json.JSONTestOutcomeReporter - Generating JSON report for el usuario deberia poder ver que el producto que relaciono en la busqueda no existe to file C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\target\site\serenity\012e49a57f0296c8dac2e9b535c0f305e62b6529884b981500f8ebfb8bd1f5f9.json (using temp file C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\target\site\serenity\012e49a57f0296c8dac2e9b535c0f305e62b6529884b981500f8ebfb8bd1f5f9.jsonec08ad90-284f-4391-96f7-92f24b498bce)
+19:37:23.592 [pool-1-thread-3] DEBUG net.thucydides.core.reports.json.JSONTestOutcomeReporter - Generating JSON report for el usuario deberia  poder ver la categoria a la que pertenece los productos desplegados to file C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\target\site\serenity\d21277733cbc27bfcb66e2d4c3090d3acde22acd67d5b749b651c53b326eddbb.json (using temp file C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\target\site\serenity\d21277733cbc27bfcb66e2d4c3090d3acde22acd67d5b749b651c53b326eddbb.jsonfdbd8d6b-bccf-42c0-a098-d2f2e74e4e83)
+19:37:23.594 [pool-1-thread-2] DEBUG net.thucydides.core.reports.json.JSONTestOutcomeReporter - Generating JSON report for el usuario deberia  poder encontrar articulos con la palabra buscada to file C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\target\site\serenity\4d6b6a4bc884e89fc111d3c7a05a7e79473c49b3bdb7776beb795a185f6c4234.json (using temp file C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\target\site\serenity\4d6b6a4bc884e89fc111d3c7a05a7e79473c49b3bdb7776beb795a185f6c4234.jsonfe069685-c05d-48bd-9eb6-5b3715c17150)
+19:37:23.704 [pool-1-thread-2] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia  poder encontrar articulos con la palabra buscada done
+19:37:23.704 [pool-1-thread-4] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia poder ver que el producto que relaciono en la busqueda no existe done
+19:37:23.704 [pool-1-thread-3] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia  poder ver la categoria a la que pertenece los productos desplegados done
+19:37:23.704 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia  poder ver un icono de buisqueda para poder digitar done
+19:37:23.705 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Shutting down executor service
+19:37:23.705 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reports generated in: 125 ms
+19:37:23.705 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Generating reports for 4 test outcomes using: net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@7b26fa2f
+19:37:23.707 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia  poder ver un icono de buisqueda para poder digitar
+19:37:23.708 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@7b26fa2f: Generating report for test outcome: Busqueda y Categoria de productos:el usuario deberia  poder ver un icono de buisqueda para poder digitar
+19:37:23.708 [pool-2-thread-4] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia poder ver que el producto que relaciono en la busqueda no existe
+19:37:23.708 [pool-2-thread-4] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@7b26fa2f: Generating report for test outcome: Busqueda y Categoria de productos:el usuario deberia poder ver que el producto que relaciono en la busqueda no existe
+19:37:23.708 [pool-2-thread-2] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia  poder encontrar articulos con la palabra buscada
+19:37:23.708 [pool-2-thread-2] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@7b26fa2f: Generating report for test outcome: Busqueda y Categoria de productos:el usuario deberia  poder encontrar articulos con la palabra buscada
+19:37:23.708 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATE TEST OUTCOME REPORT FOR el usuario deberia  poder ver un icono de buisqueda para poder digitar in ad8634b954b2103325a3b001791c10eda569c376b695ec1bd08dc4bf0f14d2e8
+19:37:23.708 [pool-2-thread-2] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATE TEST OUTCOME REPORT FOR el usuario deberia  poder encontrar articulos con la palabra buscada in 4d6b6a4bc884e89fc111d3c7a05a7e79473c49b3bdb7776beb795a185f6c4234
+19:37:23.708 [pool-2-thread-3] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia  poder ver la categoria a la que pertenece los productos desplegados
+19:37:23.708 [pool-2-thread-3] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@7b26fa2f: Generating report for test outcome: Busqueda y Categoria de productos:el usuario deberia  poder ver la categoria a la que pertenece los productos desplegados
+19:37:23.708 [pool-2-thread-4] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATE TEST OUTCOME REPORT FOR el usuario deberia poder ver que el producto que relaciono en la busqueda no existe in 012e49a57f0296c8dac2e9b535c0f305e62b6529884b981500f8ebfb8bd1f5f9
+19:37:23.708 [pool-2-thread-3] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATE TEST OUTCOME REPORT FOR el usuario deberia  poder ver la categoria a la que pertenece los productos desplegados in d21277733cbc27bfcb66e2d4c3090d3acde22acd67d5b749b651c53b326eddbb
+19:37:23.749 [pool-2-thread-4] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+19:37:23.749 [pool-2-thread-3] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+19:37:23.749 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+19:37:23.749 [pool-2-thread-2] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+19:37:23.760 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+19:37:23.760 [pool-2-thread-3] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+19:37:23.760 [pool-2-thread-2] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+19:37:23.760 [pool-2-thread-4] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+19:37:23.937 [pool-2-thread-3] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+19:37:23.937 [pool-2-thread-4] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+19:37:23.938 [pool-2-thread-2] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+19:37:23.938 [pool-2-thread-3] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+19:37:23.938 [pool-2-thread-4] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+19:37:23.940 [pool-2-thread-2] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+19:37:23.940 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+19:37:23.942 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+19:37:24.131 [pool-2-thread-2] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in 4d6b6a4bc884e89fc111d3c7a05a7e79473c49b3bdb7776beb795a185f6c4234_screenshots.html
+19:37:24.131 [pool-2-thread-4] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in 012e49a57f0296c8dac2e9b535c0f305e62b6529884b981500f8ebfb8bd1f5f9_screenshots.html
+19:37:24.131 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in ad8634b954b2103325a3b001791c10eda569c376b695ec1bd08dc4bf0f14d2e8_screenshots.html
+19:37:24.131 [pool-2-thread-3] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in d21277733cbc27bfcb66e2d4c3090d3acde22acd67d5b749b651c53b326eddbb_screenshots.html
+19:37:24.931 [pool-2-thread-3] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report d21277733cbc27bfcb66e2d4c3090d3acde22acd67d5b749b651c53b326eddbb_screenshots.html in 800 ms
+19:37:24.931 [pool-2-thread-2] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report 4d6b6a4bc884e89fc111d3c7a05a7e79473c49b3bdb7776beb795a185f6c4234_screenshots.html in 800 ms
+19:37:24.931 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report ad8634b954b2103325a3b001791c10eda569c376b695ec1bd08dc4bf0f14d2e8_screenshots.html in 800 ms
+19:37:24.931 [pool-2-thread-3] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATING HTML REPORT FOR Busqueda y Categoria de productos:el usuario deberia  poder ver la categoria a la que pertenece los productos desplegados in d21277733cbc27bfcb66e2d4c3090d3acde22acd67d5b749b651c53b326eddbb.html in directory C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\target\site\serenity  
+19:37:24.931 [pool-2-thread-2] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATING HTML REPORT FOR Busqueda y Categoria de productos:el usuario deberia  poder encontrar articulos con la palabra buscada in 4d6b6a4bc884e89fc111d3c7a05a7e79473c49b3bdb7776beb795a185f6c4234.html in directory C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\target\site\serenity  
+19:37:24.931 [pool-2-thread-4] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report 012e49a57f0296c8dac2e9b535c0f305e62b6529884b981500f8ebfb8bd1f5f9_screenshots.html in 800 ms
+19:37:24.931 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATING HTML REPORT FOR Busqueda y Categoria de productos:el usuario deberia  poder ver un icono de buisqueda para poder digitar in ad8634b954b2103325a3b001791c10eda569c376b695ec1bd08dc4bf0f14d2e8.html in directory C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\target\site\serenity  
+19:37:24.931 [pool-2-thread-4] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATING HTML REPORT FOR Busqueda y Categoria de productos:el usuario deberia poder ver que el producto que relaciono en la busqueda no existe in 012e49a57f0296c8dac2e9b535c0f305e62b6529884b981500f8ebfb8bd1f5f9.html in directory C:\Users\57300\OneDrive\Documentos\u Sebas\metodologias desarrollo de software\Proyecto\HU1-master\target\site\serenity  
+19:37:24.931 [pool-2-thread-2] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in 4d6b6a4bc884e89fc111d3c7a05a7e79473c49b3bdb7776beb795a185f6c4234.html
+19:37:24.931 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in ad8634b954b2103325a3b001791c10eda569c376b695ec1bd08dc4bf0f14d2e8.html
+19:37:24.931 [pool-2-thread-4] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in 012e49a57f0296c8dac2e9b535c0f305e62b6529884b981500f8ebfb8bd1f5f9.html
+19:37:24.948 [pool-2-thread-3] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in d21277733cbc27bfcb66e2d4c3090d3acde22acd67d5b749b651c53b326eddbb.html
+19:37:25.010 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+19:37:25.010 [pool-2-thread-2] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+19:37:25.010 [pool-2-thread-4] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+19:37:25.010 [pool-2-thread-3] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+19:37:25.071 [pool-2-thread-4] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report 012e49a57f0296c8dac2e9b535c0f305e62b6529884b981500f8ebfb8bd1f5f9.html in 140 ms
+19:37:25.071 [pool-2-thread-2] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report 4d6b6a4bc884e89fc111d3c7a05a7e79473c49b3bdb7776beb795a185f6c4234.html in 140 ms
+19:37:25.072 [pool-2-thread-4] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia poder ver que el producto que relaciono en la busqueda no existe done
+19:37:25.072 [pool-2-thread-2] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia  poder encontrar articulos con la palabra buscada done
+19:37:25.072 [pool-2-thread-3] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report d21277733cbc27bfcb66e2d4c3090d3acde22acd67d5b749b651c53b326eddbb.html in 124 ms
+19:37:25.072 [pool-2-thread-3] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia  poder ver la categoria a la que pertenece los productos desplegados done
+19:37:25.079 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report ad8634b954b2103325a3b001791c10eda569c376b695ec1bd08dc4bf0f14d2e8.html in 148 ms
+19:37:25.079 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Busqueda y Categoria de productos:el usuario deberia  poder ver un icono de buisqueda para poder digitar done
+19:37:25.079 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Shutting down executor service
+19:37:25.079 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reports generated in: 1374 ms
+19:37:25.413 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Closing darkroom
+19:37:25.413 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Darkroom processing line shutting down
 
 4 Scenarios (?[32m4 passed?[0m)
 12 Steps (?[32m12 passed?[0m)
-0m56,692s
+0m44,636s
 
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>

@@ -9,6 +9,10 @@ _Juan Sebastian Cruz_
 
 _Andres Felipe Mendez Garcia_
 
+_Giovany Rios Arboleda_
+
+_Cristhian Loza Martinez_
+
 ## Herramientas utilizadas y sus versiones:
 
 _Cucumber  cucumber-java_version>7.5.0_
@@ -21,7 +25,7 @@ _Greadle FrameWork v6.9.3_
 
 _Selenium WebDriver selenium-server version3.141.59_
 ### ¿Que hace la aplicación?
-_Partiendo de la existencia de la pagina web de pruebas  Advantage DEMO, se diseño e implemento a traves de un framework un plan de pruebas de aceptación. estas escritas directamente en lenguaje Gherkin  y la interfaz de usuario que se desea probar, pudiendo así utilizar eso como los pasos de una prueba automatizada._
+_Partiendo de la existencia de la pagina web de pruebas  Advantage DEMO, se diseño e implemento a traves de un framework un plan de pruebas de aceptación. estas escritas directamente en lenguaje Gherkin  y asi poder interactuar con la interfaz de usuario que se desea probar, pudiendo así utilizar eso como los pasos de una prueba automatizada._
 
 ### Instrucciones para usar el código del repo 📋
 

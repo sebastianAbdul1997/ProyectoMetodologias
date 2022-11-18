@@ -1,6 +1,6 @@
 package com.h2.steps_definitions;
 
-import com.indra.actions.AdvantageonlineshoppingActions;
+import com.h2.actions.AdvantageonlineshoppingActions;
 import com.indra.models.AdvantageonlineshoppingModels;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;

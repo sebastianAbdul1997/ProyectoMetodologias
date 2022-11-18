@@ -1,4 +1,4 @@
-package com.indra.pages;
+package com.h2.pages;
 
 import net.serenitybdd.core.pages.PageObject;
 import net.serenitybdd.core.pages.WebElementFacade;

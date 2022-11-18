@@ -1,7 +1,7 @@
-package com.indra.actions;
+package com.h2.actions;
 
 import com.indra.models.AdvantageonlineshoppingModels;
-import com.indra.pages.AdvantageonlineshoppingPage;
+import com.h2.pages.AdvantageonlineshoppingPage;
 import net.serenitybdd.core.pages.WebElementFacade;
 import net.serenitybdd.screenplay.actions.Enter;
 import net.serenitybdd.screenplay.actions.SendKeys;
